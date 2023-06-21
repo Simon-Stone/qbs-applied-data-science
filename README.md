@@ -6,8 +6,8 @@ In this Independent Study course, students will learn data science methods and b
 1. Students will be able to complete a data science project through the process of finding, cleaning / wrangling, compiling, exploring, analyzing, visualizing, and modeling data.
 2. Students will become proficient at writing and applying Python code to complete these data science steps, including the application of important Python libraries like Pandas (for dataframes), Matplotlib and Seaborn (for visualization), as well as SciKit-Learn and Pytorch (for Machine Learning).
 3. Students will practice effectively communicating (and providing critical feedback on) data science research through writing, oral presentations, collaborative classroom discussion, and open source code sharing.
-4. Students will apply the principles of reproducible research throughout the data science lifecycle (by practicing steps a and b below while acknowledging the need to do c when they perform their own original research):
-    <ol type="a">
+4. Students will apply the principles of reproducible research throughout the data science lifecycle (by practicing steps i and ii below while acknowledging the need to do iii when they perform their own original research):
+    <ol type="i">
     <li>pre-planning how data will be collected, organized, backed-up, disseminated and stored</li>
     <li>following coding and documentation best practices during research</li>
     <li>sharing data, code, and documentation to the widest possible audience after research is completed and storing it in a long-term depository</li>
