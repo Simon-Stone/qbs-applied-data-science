@@ -16,7 +16,7 @@ In this Independent Study course, students will learn data science methods and b
 ## Time and Location of Meetings
 Monday & Wednesday, 4:00 pm - 5:30pm
 
-Location TBD
+Remsen 312
 
 ## Instructors
 - [Dr. Carly Bobak](mailto:carly.a.bobak@dartmouth.eud), Research Computing & Biomedical Data Science
