@@ -8,7 +8,10 @@ Create a data visualization using one or more of Python's visualization librarie
 Expectations:
 
 1. Data: Find and prepare a dataset of your own choosing (if possible, related to your final project idea you are considering)
-2. Organization / Purpose: Organize your Jupyter Notebook around a specific research question and then create a visualization that answers that question.
+2. Organization / Purpose: Organize your Jupyter Notebook around a specific research or methods question and then create a visualization that answers that question. 
+    a. a methods question could be something like: On July 3, the world just endured the hottest day on record. However, we experience weather 
+    at the local not global level. How can we succinctly visualize daily temperature patterns for Hanover over multiple decades? Can we use such a 
+    such a visualization to visually identify local heat waves and cold spells? (see the visualization_weather3.ipynb notebook to see how I answered that.)
 3. Format: You will submit your visualization within a Jupyter Notebook that shows the work you did to prepare, filter, re-arrange, and sort your dataset and then create the visualization.
 3b. Format - additional option: If you choose to further edit your visualization outside of Jupyter / Python using graphic editing software like Adobe Illustrator, Inkscape, or something similar, you may also a separate image file with your edited, final graphic in addition to your Jupyter notebook.
 4. Submission: Push the completed notebook to your new Github page and then share the link to the page with Carly, Jeremy, & Simon 
